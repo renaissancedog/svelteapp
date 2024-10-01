@@ -15,14 +15,14 @@
       <header>
         <h1 class="pt-12 text-2xl text-center">UIL Computer Science</h1>
       </header>
-      <div class="pt-12 mr-4 flex">
+      <div class="pt-12 flex">
         <div class="border-solid border-green-500 basis-1/5">
           <p class="leading-6">Mr. Hall</p>
           <p>dhall2@neisd.net</p>
           <p>IND321</p>
           <p>Thursdays 4:30 to 5:30 (for now)</p>
         </div>
-        <div class="basis-4/5 pr-12">
+        <div class="ml-4 basis-4/5 pr-12">
           <p>We do multiple-choice computer science questions in Java and code solutions to problems.</p>
           <p>Besides UIL, we also prepare students for USACO and other competitive programming contests.</p>
           <p> For more, see <a href="https://www.uiltexas.org/academics/stem/computer-science" target="_blank">Computer Science.</a></p>
