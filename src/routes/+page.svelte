@@ -15,7 +15,7 @@
       <header>
         <h1 class="pt-12 text-2xl text-center">UIL Computer Science</h1>
       </header>
-      <div class="pt-12 flex">
+      <div class="pt-12 mr-4 flex">
         <div class="border-solid border-green-500 basis-1/5">
           <p class="leading-6">Mr. Hall</p>
           <p>dhall2@neisd.net</p>
