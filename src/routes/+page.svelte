@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Svelte</title>
   </head>
-  <body class="mt-12 ml-12 font-mono">
+  <body class="mt-12 ml-6 mr-6 font-mono">
   <Nav {base}/>
     <main class="text-blue-500 mx-auto">
       <header>
