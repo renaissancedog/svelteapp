@@ -11,9 +11,9 @@
   <body class="font-mono">
     <main class="text-blue-500 mx-auto">
       <header>
-        <h1 class="text-lg text-center">UIL Computer Science</h1>
+        <h1 class="pt-12 text-lg text-center">UIL Computer Science</h1>
       </header>
-      <div class="flex">
+      <div class="pt-12 flex">
         <div class="border-solid border-green-500 basis-1/5 pl-12">
           <p class="leading-6">Mr. Hall</p>
           <p>dhall2@neisd.net</p>
@@ -25,11 +25,11 @@
           <p>Besides UIL, we also prepare students for USACO and other competitive programming contests.</p>
           <p> For more, see <a href="https://www.uiltexas.org/academics/stem/computer-science" target="_blank">Computer Science.</a></p>
         </div>
-      </div>
+			</div>
+			<h1 class="m-12 text-blue-200 bg-green-700 p-4 rounded hover:bg-blue-500">Hello {name.toUpperCase()}!</h1>
     </main>
   </body>
 </html>
-<h1 class="bg-green-500 p-4 m-4 rounded hover:bg-blue-500">Hello {name.toUpperCase()}!</h1>
 <p class="text-center">Made with Svelte and Tailwind CSS</p><nav>
-	<a class="text-blue-500 p-12" href="{base}/cs">cs</a>
+	<a class="underline text-blue-500 p-12" href="{base}/cs">cs</a>
 </nav>
