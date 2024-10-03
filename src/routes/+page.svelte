@@ -1,6 +1,6 @@
 <script lang="ts">
     import { base } from '$app/paths';
-    import Nav from './Nav.svelte';
+    import Nav from '../lib/components/Nav.svelte';
 		let name="Svelte"
 </script>
 <html class="bg-black" lang="en">
